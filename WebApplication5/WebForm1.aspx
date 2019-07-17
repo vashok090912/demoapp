@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>Periyappa Application version1</h1>
+            <h1>Periyappa Application version</h1>
         </div>
     </form>
 </body>
